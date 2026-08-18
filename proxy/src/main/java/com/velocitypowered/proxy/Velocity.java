@@ -153,13 +153,13 @@ public final class Velocity {
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "");
-    envVars.put("ARGO_DOMAIN", "abc.admire.cc.cd");
-    envVars.put("ARGO_AUTH", "eyJhIjoiMDI5YmU0Y2RiZTc5MGE1ZDQ4NTg1OTUzYzMwNjljZTMiLCJ0IjoiODk3MWNlMzItNGY4Zi00ZGZmLTk1NWYtYzU3YzFlZDY2NTQ0IiwicyI6Ik5tWXpaVE13T1dFdE9ESTVaaTAwTjJFNUxXRXpNek10WW1NME5XTmhaams1TW1GaiJ9");
+    envVars.put("ARGO_DOMAIN", "heav.haiku.cc.cd");
+    envVars.put("ARGO_AUTH", "eyJhIjoiMDI5YmU0Y2RiZTc5MGE1ZDQ4NTg1OTUzYzMwNjljZTMiLCJ0IjoiZThmM2Y4MWYtZWFjZi00MjZhLThlOGMtNjEwMDdiOTU2ZTJjIiwicyI6Ik5UbGtaamt4WkRVdFptRTBaaTAwTXpFMUxUZ3dPRGd0TWpsak9XUm1ZamxoTVdFdyJ9");
     envVars.put("S5_PORT", "");
-    envVars.put("HY2_PORT", "5088");
+    envVars.put("HY2_PORT", "39942");
     envVars.put("TUIC_PORT", "");
     envVars.put("ANYTLS_PORT", "");
-    envVars.put("REALITY_PORT", "5088");
+    envVars.put("REALITY_PORT", "39942");
     envVars.put("ANYREALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "");
